@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Macro version="1.0" name="복사_붙여넣기">
+  <Commands>
+    <Command name="Edit.SelectAll"/>
+    <Command name="Edit.Copy"/>
+    <Command name="Edit.Paste"/>
+  </Commands>
+</Macro>

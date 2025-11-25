@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Macro version="1.0" name="커스텀_워크플로우">
+  <Commands>
+    <Command name="Transport.Tempo">
+      <Argument name="BPM" value="120"/>
+    </Command>
+    <Command name="Audio.FadeIn"/>
+    <Command name="Transport.Play"/>
+  </Commands>
+</Macro>

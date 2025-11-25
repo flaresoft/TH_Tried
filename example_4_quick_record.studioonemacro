@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Macro version="1.0" name="빠른_녹음_준비">
+  <Commands>
+    <Command name="Track.Add"/>
+    <Command name="Transport.Record"/>
+  </Commands>
+</Macro>
