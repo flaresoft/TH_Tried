@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Macro version="1.0" name="자연어_예제">
+  <Commands>
+    <Command name="Track.Add"/>
+    <Command name="Track.Mute"/>
+  </Commands>
+</Macro>

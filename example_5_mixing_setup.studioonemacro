@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Macro version="1.0" name="믹싱_뷰_설정">
+  <Commands>
+    <Command name="View.Mixer">
+      <Argument name="State" value="1"/>
+    </Command>
+    <Command name="View.Browser">
+      <Argument name="State" value="1"/>
+    </Command>
+    <Command name="View.Inspector">
+      <Argument name="State" value="1"/>
+    </Command>
+  </Commands>
+</Macro>

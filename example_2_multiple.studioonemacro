@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Macro version="1.0" name="복합_명령어">
+  <Commands>
+    <Command name="Track.Add"/>
+    <Command name="Track.Mute"/>
+    <Command name="Transport.Play"/>
+  </Commands>
+</Macro>
